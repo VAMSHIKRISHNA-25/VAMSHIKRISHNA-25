@@ -52,9 +52,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vamshikrishna-narmula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vamshikrishna-narmula" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vamshikrishna-narmula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vamshikrishna-narmula" height="30" width="40" /></a>
 <a href="https://instagram.com/vamshikrishnanarmula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamshikrishnanarmula" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vamshikrishnana3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vamshikrishnana3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vamshikrishnana3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vamshikrishnana3" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshikrishna-25&" alt="vamshikrishna-25" /></p>
