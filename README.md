@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VAMSHIKRISHNA-25](https://github.com/VAMSHIKRISHNA-25)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/VAMSHIKRISHNA-25)
 
-- 📫 How to reach me **www.linkedin.com/in/vamshikrishna-narmula**
+- 📫 How to reach me [linkedin](www.linkedin.com/in/vamshikrishna-narmula)
 
 
 
