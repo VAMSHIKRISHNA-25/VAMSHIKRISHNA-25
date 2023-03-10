@@ -1,11 +1,9 @@
 <h1 align="center">Hello, Everyone! 👋, I'm Vamshikrishna</h1>
 <h3 align="center">Data Science & Machine Learning || SQL, Python, Tableau, EDA , NLP & Machine Learning Certified.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshikrishna-25&label=Profile%20views&color=0e75b6&style=flat" alt="vamshikrishna-25" /> </p>
 
-
+ 
 - Hello, folks! 👋I'm **Vamshikrishna**
-
 
 ✨ **About Me in 30 secs**✨
 
@@ -19,6 +17,9 @@
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/vamshikrishna-narmula/)
 
 
+ 
+<p>&nbsp;</p>
+
 
 💡**TECHNICAL EXPERTISE**💡:
 
@@ -30,12 +31,16 @@
 -  **Tools & Platforms**: JUPYTER notebook, Spyder.
 
 
-
+ 
+<p>&nbsp;</p>
 
 **📚Courses and Certifications📚**
 
 -  NIIT Certified Data Science and Machine Learning
 
+
+ 
+<p>&nbsp;</p>
 
 
 
@@ -49,6 +54,9 @@
 
 -  **Furniture Sales Prediction Time series**: [Click](https://github.com/VAMSHIKRISHNA-25/Furniture-Sales-Prediction_Time-series-Project.git)
                                                                                                                     
+ 
+<p>&nbsp;</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
