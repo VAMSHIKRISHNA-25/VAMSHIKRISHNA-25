@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Everyone! 👋, I'm Vamshikrishna</h1>
-<h3 align="center">Data Science & Machine Learning || SQL, Python, Tableau, EDA , NLP & Machine Learning Certified.</h3>
+<h3 align="center">Data Science & Machine Learning Certified.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshikrishna-25&label=Profile%20views&color=0e75b6&style=flat" alt="vamshikrishna-25" /> </p>
 
  
